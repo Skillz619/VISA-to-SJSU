@@ -17,11 +17,6 @@ Congratulations on getting your acceptance at SJSU(Powering Silicon Valley). Wel
 - #### [Important note for SE students]()
 - #### [SE course reviews]()
 
-## Important Links - FAQs
-- #### [Networking Guidelines (USA specific, You may not know)](https://gist.github.com/snigi-gupta/90b2ba5fa4d98eb4f529c72e146e0fef)
-- #### [Confused b/w A univ and B univ? Or cannot decide between 'MS in X' vs 'MS in Y' course?](https://gist.github.com/snigi-gupta/7ea7ec4a70fba714d6c84fffef2b5ad2)
-- #### [My SJSU Experience, Blunt and Honest](https://gist.github.com/snigi-gupta/afc478bfd0a8dde508a6687820df3342)
-- #### [SJSU Career Fair](https://gist.github.com/snigi-gupta/2e1acedd0565e40067573514e04be1f5)
 
 
 ## Contents
@@ -38,7 +33,7 @@ Here is a list of the documents present in this repo.
 |6|[Health-Background-Form.pdf]()                                                   | UB's health background form.
 |7|[Housing (Spring 2024) ]()                                 | Housing information and landlord details
 |8|[Legal Issues with Landlord]()                                                   | If experiencing legal issues with landlord, seek help from these contacts.
-|9|[Miscellaneous Information for life in the US by Ashwad Pandit.docx]()           | Misc. information for adapting to life in USA.
+|9|[Miscellaneous Information for life in the US]()           | Misc. information for adapting to life in USA.
 |10|[Onboarding Spring-2024.pdf]()                                                   | Presentation to the webinar that was held on December 23, 2020 at 10:30 AM EST.
 |11|[Questionnarie](")                           | Common questions that were asked in the webinar. Check Webinar video for the answers. Can be watched at 1.5x. Majority of the audience in the webinar was from India.
 |12|[README.md](")                                                                   | Read this before anything!
@@ -54,4 +49,6 @@ Here is a list of the documents present in this repo.
 
 #### Contributors
 - [Shreekar Kolanu]([https://www.linkedin.com/in/snigi/](https://www.linkedin.com/in/shreekar-kolanu/))
+- Harsh Ande
+- Aditya 
 - </br>
