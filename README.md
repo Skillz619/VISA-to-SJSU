@@ -50,5 +50,5 @@ Here is a list of the documents present in this repo.
 #### Contributors
 - [Shreekar Kolanu]([https://www.linkedin.com/in/snigi/](https://www.linkedin.com/in/shreekar-kolanu/))
 - Harsh Ande
-- Aditya 
-- </br>
+- Aditya
+</br>
