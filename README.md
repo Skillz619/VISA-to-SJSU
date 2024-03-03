@@ -42,7 +42,8 @@ Here is a list of the documents present in this repo.
 |15|[US Bank List by Harshith Jain.xlsx]()                                          | Information related to USA Banks
 |16|[US Visa Checklist.pdf]()                                                       | A checklist to make sure you have necessary documents for your VISA interview.
 |17|[VISA Interview.doc]()                                                          | Check this document to see how to carry your documents for the VISA interview.
-|18|[Visa Experience File Fall 2018.pdf](")                                          | Read VISA interviews of previous students and get an idea of what to expect.
+|18|[Visa Experience File Fall 2024.pdf](")                                          | Read VISA interviews of previous students and get an idea of what to expect.
+|19|[Referrals](https://github.com/Skillz619/VISA-to-SJSU/blob/main/To%20Do%20List")                                          | Read VISA interviews of previous students and get an idea of what to expect.
 
 
 **Note: If you want to contribute to this repo or update an information please contact me at shreekar.kolanu@sjsu.edu**
