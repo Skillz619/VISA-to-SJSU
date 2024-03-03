@@ -1,6 +1,6 @@
 # VISA-to-SJSU
 
-## AttendingSan Jose State University
+## Attending San Jose State University
 Congratulations on getting your acceptance at SJSU(Powering Silicon Valley). Welcome to sJSU! This is a repository to help you have a smooth transition from your homeland country to SJSU! This repository was last updated on _March 02 2024._
 
 *This repository is a major contribution of [Shreekar Kolanu]((https://github.com/Skillz619/VISA-to-SJSU)). The sole purpose of this repository is to help you out with onboarding. Please do not try to misuse this information.* 
