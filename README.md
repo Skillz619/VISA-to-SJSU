@@ -13,7 +13,7 @@ Congratulations on getting your acceptance at SJSU(Powering Silicon Valley). Wel
 
 - #### [Show your support by following me on Instagram](). 
 - #### [Join Slack Workspace]() and share it with your friends too!
-- #### [Unable to find houses in SJSU, HELP!](https://gist.github.com/snigi-gupta/2f7a6d15d47bf8d3a7d1bd06ba907796)
+- #### [Unable to find houses in SJSU, HELP!]()
 - #### [Important note for SE students]()
 - #### [SE course reviews]()
 
