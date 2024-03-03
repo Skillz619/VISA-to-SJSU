@@ -30,7 +30,7 @@ Here is a list of the documents present in this repo.
 |3|[Blood tests and other health checkups]()                 | Information regarding getting blood tests done.
 |4|[Complete Packing Checklist ]()                             | Not sure what to bring to USA? Use this checklist to pack your luggage.
 |5|[Flight related Information ]()                | Information related to flights.
-|6|[Health-Background-Form.pdf]()                                                   | UB's health background form.
+|6|[Health-Background-Form.pdf]()                                                   | SJSU's health background form.
 |7|[Housing (Spring 2024) ]()                                 | Housing information and landlord details
 |8|[Legal Issues with Landlord]()                                                   | If experiencing legal issues with landlord, seek help from these contacts.
 |9|[Miscellaneous Information for life in the US]()           | Misc. information for adapting to life in USA.
@@ -38,8 +38,8 @@ Here is a list of the documents present in this repo.
 |11|[Questionnarie](")                           | Common questions that were asked in the webinar. Check Webinar video for the answers. Can be watched at 1.5x. Majority of the audience in the webinar was from India.
 |12|[README.md](")                                                                   | Read this before anything!
 |13|[How to get thru cooking in the Kitchen by Aditya]()                       | Important items you will need in the kitchen.
-|14|[UB Housing related Information](")                       | How to search houses in Buffalo. List of contacts also available.
-|15|[US Bank List by Harshith Jain.xlsx]()                                          | Information related to USA Banks
+|14|[SJSU Housing related Information](")                       | How to search houses in San Jose. List of contacts also available.
+|15|[US Bank List ]()                                          | Information related to USA Banks
 |16|[US Visa Checklist.pdf]()                                                       | A checklist to make sure you have necessary documents for your VISA interview.
 |17|[VISA Interview.doc]()                                                          | Check this document to see how to carry your documents for the VISA interview.
 |18|[Visa Experience File Fall 2024.pdf](")                                          | Read VISA interviews of previous students and get an idea of what to expect.
