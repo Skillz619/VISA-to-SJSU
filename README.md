@@ -14,7 +14,7 @@ Congratulations on getting your acceptance at SJSU(Powering Silicon Valley). Wel
 <img src= "https://media.giphy.com/media/RKKPOi4piK6CUXiUj7/giphy.gif" width="60" height="30">
 
 - #### [Show your support by following me on Instagram](). 
-- #### [Join Slack Workspace]() and share it with your friends too!
+- #### [Join Discord Server]() and share it with your friends too!
 - #### [Unable to find houses in SJSU, HELP!]()
 - #### [Important note for SE students]()
 - #### [SE course reviews]()
@@ -51,7 +51,7 @@ Here is a list of the documents present in this repo.
 **Note: If you want to contribute to this repo or update an information please contact me at shreekar.kolanu@sjsu.edu**
 
 #### Contributors
-- [Shreekar Kolanu]((https://www.linkedin.com/in/snigi/](https://www.linkedin.com/in/shreekar-kolanu/)))
+- [Shreekar Kolanu](")
 - Harsh Ande
 - Sai Krishna
 - Aditya
