@@ -51,7 +51,7 @@ Here is a list of the documents present in this repo.
 **Note: If you want to contribute to this repo or update an information please contact me at shreekar.kolanu@sjsu.edu**
 
 #### Contributors
-- [Shreekar Kolanu](")
+- [Shreekar Kolanu](https://www.linkedin.com/in/shreekar-kolanu/")
 - Harsh Ande
 - Sai Krishna
 - Aditya
