@@ -1,5 +1,5 @@
 # VISA-to-SJSU
-Version 1.0 Release! 2.0 Comming up!!
+Version 1.0 Release!       2.0 Comming up!!
 
 
 ## Attending San Jose State University
