@@ -1,6 +1,5 @@
-# VISA-to-SJSU
-Version 1.0 Release!       2.0 Comming up!!
-
+# VISA-to-SJSU  v1.0
+Version 1.0 Release!       
 
 ## Attending San Jose State University
 Congratulations on getting your acceptance at SJSU(Powering Silicon Valley). Welcome to sJSU! This is a repository to help you have a smooth transition from your homeland country to SJSU! This repository was last updated on _March 02 2024._
@@ -49,6 +48,8 @@ Here is a list of the documents present in this repo.
 
 
 **Note: If you want to contribute to this repo or update an information please contact me at shreekar.kolanu@sjsu.edu**
+
+Release Version 2.0 Coming up!!
 
 #### Contributors
 - [Shreekar Kolanu](https://www.linkedin.com/in/shreekar-kolanu/)
