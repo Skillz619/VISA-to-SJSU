@@ -30,7 +30,7 @@ Here is a list of the documents present in this repo.
 |-|-----------------------------------------------------------------------------|-------------
 |1|[Complete VISA Document Prep Guide]()                           | Read this if going for Visa Interview. This has a list of all documents you should be carrying to your visa consulate. This file also has an excel sheet of visa interview questions, so you can prepare for you interview well in advance.
 |2|[Software Engineering Important Tips ]()                                             | A detailed document on everything you need to know about SJSU's SE deparment.
-|3|[Data Analytics Course]                        | This folder contains all the related information regarding Quizzes, Assignments, Mids, Finals etc.
+|3|[Data Analytics Course]()                        | This folder contains all the related information regarding Quizzes, Assignments, Mids, Finals etc.
 |4|[Blood tests and other health checkups]()                 | Information regarding getting blood tests done.
 |5|[Complete Packing Checklist ]()                             | Not sure what to bring to USA? Use this checklist to pack your luggage.
 |6|[Flight related Information ]()                | Information related to flights.
