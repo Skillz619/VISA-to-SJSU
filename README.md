@@ -53,12 +53,9 @@ Here is a list of the documents present in this repo.
 **Note: If you want to contribute to this repo or update an information please contact me at shreekar.kolanu@sjsu.edu**
 
 Release Version 2.0 Coming up!!
+<li>Assignments/Labs solutions collections</li>
 
 #### Contributors
 - [Shreekar Kolanu](https://www.linkedin.com/in/shreekar-kolanu/)          | SE Student from SJSU - Spring 24
-- Harsh Ande
 - [Sai Krishna](https://www.linkedin.com/in/sai-krishna-kathika-145bb514a/)          | DA Special Session Student from SJSU - Spring 24
-- Aditya
-- Amar
-- Chaitanya
 </br>
