@@ -53,7 +53,7 @@ Here is a list of the documents present in this repo.
 **Note: If you want to contribute to this repo or update an information please contact me at shreekar.kolanu@sjsu.edu**
 
 Release Version 2.0 Coming up!!
-<li>Assignments/Labs solutions collections</li>
+<li>Assignments/Labs solutions Subject-wise collections</li>
 
 #### Contributors
 - [Shreekar Kolanu](https://www.linkedin.com/in/shreekar-kolanu/)          | SE Student from SJSU - Spring 24
