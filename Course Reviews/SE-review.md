@@ -19,7 +19,7 @@ __Reviews were given keeping the following points in mind:__
 
 | Subject | Review from a student|
 |---------|----------------------|
-|__Enterprise Software Platforms - Richard Sinn__| Prof works at Adobe and his course mainly consists of Networking, Encryption, Systems, Big Data, Cloud and PHP Devevelopement. Projects are mostly a full stack application level Eg: E-commerce Application. The course comprises of Labs, Assignments every week and has Mid Exam and a Final Exam mostly covered in the PPT's shared by the prof. All in all he shares his work experience and is friendly and approachable.|
+|__Enterprise Software Platforms - Richard Sinn__| Core course for SE students and Prof works at Adobe and his course mainly consists of Networking, Encryption, Systems, Big Data, Cloud and PHP Devevelopement. Projects are mostly a full stack application level Eg: E-commerce Application. The course comprises of Labs, Assignments every week and has Mid Exam and a Final Exam mostly covered in the PPT's shared by the prof. All in all he shares his work experience and is friendly and approachable. Prof is linent on students and gives them time to complete and learn things in the class.|
 |__Enterprise Software Platforms - Ben Reed__|  |
 |__Cloud Technologies-Jerry Gao__| - Dr. Gao has vast experience in research in Cloud and AI. His course is a mixture of AI, |
 |__Software Systems Engineering__| .|
