@@ -55,4 +55,5 @@ Release Version 2.0 Coming up!!
 - [Shreekar Kolanu](https://www.linkedin.com/in/shreekar-kolanu/)          | MSSE Student - Spring 24
 - [Sai Krishna](https://www.linkedin.com/in/sai-krishna-kathika-145bb514a/)          | DA Special Session - Spring 24
 - [Harsh Vardhan](https://www.linkedin.com/in/harsh-vardhan-ande/)          | MSSE Student - Spring 24
+- [Amarendar Reddy](https://www.linkedin.com/in/amarenderreddy/)          | MSSE Student - Spring 24
 </br>
