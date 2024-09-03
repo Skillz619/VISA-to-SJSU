@@ -34,3 +34,4 @@ __*If you want to contribute to and add a new course review, please mention it i
 Reviewers in no particular order: </br>
 |Shreekar Kolanu | https://www.linkedin.com/in/shreekar-kolanu/ | CMPE 281, CMPE 272</br>
 |Harsh Vardhan | https://www.linkedin.com/in/harsh-vardhan-ande/ | CMPE 294, CMPE 273 </br>
+|Amarendar Reddy | https://www.linkedin.com/in/amarenderreddy/ | CMPE 272 </br>
