@@ -15,7 +15,7 @@ Congratulations on getting your acceptance at SJSU(Powering Silicon Valley). Wel
 - #### [Join Discord Server]() and share it with your friends too!
 - #### [Unable to find houses in SJSU, HELP!]()
 - #### [Important note for SE students]()
-- #### [SE course reviews]()
+- #### [SE course reviews](https://github.com/Skillz619/VISA-to-SJSU/blob/main/Course%20Reviews/SE-review.md)
 - #### [Important note for DA students]()
 - #### [DA course reviews]()
 
