@@ -44,7 +44,7 @@ Here is a list of the documents present in this repo.
 |15|[Visa Experience File](")                                          | Read VISA interviews of previous students and get an idea of what to expect.
 |16|[Referrals](Referrals.md)                                          | Get yourself some extra bucks and install these apps which make your life easy.
 |17| [Course Reviews](https://github.com/Skillz619/VISA-to-SJSU/blob/main/Course%20Reviews/SE-review.md)                | Student's review on courses they took.
-|18|[CPT-Instructions]()                                                | CPT- Process.
+|18|[CPT-Instructions](https://github.com/Skillz619/VISA-to-SJSU/blob/main/cpt.md)                                                | CPT- Process.
 
 
 **Note: If you want to contribute to this repo or update an information please contact me at shreekar.kolanu@sjsu.edu**
